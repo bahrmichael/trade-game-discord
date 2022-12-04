@@ -10,7 +10,7 @@
     "cdk": "cdk"
   },
   "devDependencies": {
-    "@types/node": "10.17.27",
+    "@types/node": "10.17.60",
     "@types/prettier": "2.6.0",
     "aws-cdk": "2.50.0",
     "ts-node": "10.9.1",
